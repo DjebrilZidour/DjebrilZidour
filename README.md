@@ -18,3 +18,4 @@ I'm a passionate React developer focused on building and improving web applicati
 
 ## Connect with me:
 - [E-mail] djebril.zidour.pro@gmail.com
+- [Phone Number] +213 556 94 65 14
